@@ -26,4 +26,9 @@ dist-ssr
 # Python
 __pycache__/
 *.pyc
+
+# Environment files
 .env
+.env.local
+.env.*
+medical_agent/.env
